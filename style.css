@@ -1,3 +1,12 @@
-body {
-
+   h3 {
+  color: magenta;
+ 
+  text-decoration: overline underline 7px salmon dotted;
+  letter-spacing: 3px;
+}
+      img:hover{
+        border-radius: 5000px;
+}
+body{
+background-color: blue;
 }
