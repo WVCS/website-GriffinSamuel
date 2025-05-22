@@ -1,3 +1,15 @@
+    h3 {
+  color: green;
+ 
+  text-decoration: overline underline 7px #4c956c dotted;
+  letter-spacing: 3px;
+}
+      img:hover{
+        border-radius: 5000px;
+}
+body{
+background-color: pink;
+}
 nav {
   list-style-type: none;
   background-color: pink;
