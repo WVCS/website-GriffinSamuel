@@ -1,12 +1,21 @@
-   h3 {
-  color: magenta;
- 
-  text-decoration: overline underline 7px salmon dotted;
-  letter-spacing: 3px;
+nav {
+  list-style-type: none;
+  background-color: pink;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
-      img:hover{
-        border-radius: 5000px;
+
+li a {
+  text-decoration: dots;
+  color: green;
+  display: block;
+  float: left;
+  padding: 15px 199.5px;
 }
-body{
-background-color: blue;
+
+li a:hover{
+  background-color: #4c956c;
+  color: pink;
 }
