@@ -1,4 +1,4 @@
-    h3 {
+    h6 {
   color: green;
  
   text-decoration: overline underline 7px #4c956c dotted;
@@ -30,4 +30,10 @@ li a {
 li a:hover{
   background-color: #4c956c;
   color: pink;
+}
+    h6 {
+  color: green;
+ 
+  text-decoration: overline underline 7px #4c956c dotted;
+  letter-spacing: 3px;
 }
